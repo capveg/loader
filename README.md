@@ -1,7 +1,8 @@
 Open Network Loader
 ===================
 
-The Open Network Loader is the first-stage boot environment.
+The Open Network Loader is the second-stage boot environment (after
+uboot, grub, etc.).
 
 The Open Network Loader's responsibility is to select
 the appropriate Software Image file and associated persistant
